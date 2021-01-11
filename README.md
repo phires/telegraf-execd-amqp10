@@ -1,0 +1,1 @@
+# telegraf-execd-amqp10
